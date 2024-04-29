@@ -1,0 +1,8 @@
+---
+- name: Update yum/dnf systems
+  ansible.builtin.package:
+    name: '*'
+    state: latest
+    update_cache: yes
+    enablerepo: '*'
+

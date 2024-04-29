@@ -1,5 +1,7 @@
 galaxy_info:
   author: Shaun Sundquist
+  role_name: update-sys
+  namespace: bluepants-dev
   description: Update all the systems!
   company: BluePants.dev
 
@@ -15,7 +17,7 @@ galaxy_info:
   # - Apache-2.0
   # - CC-BY-4.0
   # license: license (GPL-2.0-or-later, MIT, etc)
-  license: BSD-3-Clause
+  license: MIT
 
   min_ansible_version: "2.1"
 
