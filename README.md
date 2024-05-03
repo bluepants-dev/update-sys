@@ -1,8 +1,6 @@
 # update-sys
 
-_An ansible role._
-
-Update all the systems!
+_An ansible role to:_ Update all the systems!
 
 ## Usage
 
@@ -12,7 +10,7 @@ Include in a playbook with the following:
 - hosts: localhost
 
   roles:
-    - { role: bluepants_dev.update-sys }
+    - { role: shaunsund.update-sys }
 ```
 
 ## Variables
