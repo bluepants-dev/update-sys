@@ -12,7 +12,7 @@ Include in a playbook with the following:
 - hosts: localhost
 
   roles:
-    - { role: bluepants-dev.update-sys }
+    - { role: bluepants_dev.update-sys }
 ```
 
 ## Variables
