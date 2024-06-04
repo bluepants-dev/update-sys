@@ -1,7 +1,7 @@
 galaxy_info:
   author: Shaun Sundquist
   role_name: update-sys
-  namespace: shaunsund
+  namespace: bluepantsdev
   description: Update all the systems!
   company: BluePants.dev
 
