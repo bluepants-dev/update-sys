@@ -10,7 +10,7 @@ Include in a playbook with the following:
 - hosts: localhost
 
   roles:
-    - { role: shaunsund.update-sys }
+    - { role: bluepantsdev.update-sys }
 ```
 
 ## Variables
